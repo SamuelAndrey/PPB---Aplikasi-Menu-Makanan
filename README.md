@@ -1,6 +1,5 @@
 # PPB-Aplikasi-Menu-Makanan
-Gradle build untuk menjalankan projectnya
-Aplikasi List Menu Makanan - penugasan PPB
+Gradle build manual untuk menjalankan project ini
 
 # Screenshot
 
